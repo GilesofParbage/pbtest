@@ -4,5 +4,6 @@
 @end;
 @begin Objects 
  "pbtest.sra" "pbtest.pbl";
+ "testdw.srd" "pbtest.pbl";
  "test.srw" "pbtest.pbl";
 @end;
